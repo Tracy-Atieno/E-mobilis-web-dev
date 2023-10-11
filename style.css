@@ -1,0 +1,14 @@
+body{
+    background: green;
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    font-size: 25px;
+}
+a:hover{
+    color:white ;
+    background: aqua;
+    border-radius:5px ;
+    font-size:30px ;
+}
